@@ -1,2 +1,2 @@
-x=0
+x=10
 x=[a*a for a in range(10)]
